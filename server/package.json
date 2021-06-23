@@ -1,0 +1,16 @@
+{
+  "name": "traderhelp",
+  "version": "1.0.0",
+  "description": "A Normal Website To Help New Traders A Guide For Different Tools.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Tizil Soni",
+  "license": "ISC"
+}

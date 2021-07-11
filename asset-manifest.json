@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/basics/static/css/main.6c99c888.chunk.css",
-    "main.js": "/basics/static/js/main.3270fdd6.chunk.js",
-    "main.js.map": "/basics/static/js/main.3270fdd6.chunk.js.map",
-    "runtime-main.js": "/basics/static/js/runtime-main.f0759df5.js",
-    "runtime-main.js.map": "/basics/static/js/runtime-main.f0759df5.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/basics/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.79263c1a.chunk.js": "/basics/static/js/2.79263c1a.chunk.js",
-    "static/js/2.79263c1a.chunk.js.map": "/basics/static/js/2.79263c1a.chunk.js.map",
-    "static/js/3.23e9ece8.chunk.js": "/basics/static/js/3.23e9ece8.chunk.js",
-    "static/js/3.23e9ece8.chunk.js.map": "/basics/static/js/3.23e9ece8.chunk.js.map",
-    "index.html": "/basics/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/basics/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.6c99c888.chunk.css.map": "/basics/static/css/main.6c99c888.chunk.css.map",
-    "static/js/2.79263c1a.chunk.js.LICENSE.txt": "/basics/static/js/2.79263c1a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/basics/static/media/background.85cd67db.jpg",
-    "static/media/cards.css": "/basics/static/media/tradingview.66e27588.png"
+    "main.css": "/Fullstack/static/css/main.fb2482ef.chunk.css",
+    "main.js": "/Fullstack/static/js/main.3270fdd6.chunk.js",
+    "main.js.map": "/Fullstack/static/js/main.3270fdd6.chunk.js.map",
+    "runtime-main.js": "/Fullstack/static/js/runtime-main.1dc45b6c.js",
+    "runtime-main.js.map": "/Fullstack/static/js/runtime-main.1dc45b6c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Fullstack/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.79263c1a.chunk.js": "/Fullstack/static/js/2.79263c1a.chunk.js",
+    "static/js/2.79263c1a.chunk.js.map": "/Fullstack/static/js/2.79263c1a.chunk.js.map",
+    "static/js/3.23e9ece8.chunk.js": "/Fullstack/static/js/3.23e9ece8.chunk.js",
+    "static/js/3.23e9ece8.chunk.js.map": "/Fullstack/static/js/3.23e9ece8.chunk.js.map",
+    "index.html": "/Fullstack/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Fullstack/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.fb2482ef.chunk.css.map": "/Fullstack/static/css/main.fb2482ef.chunk.css.map",
+    "static/js/2.79263c1a.chunk.js.LICENSE.txt": "/Fullstack/static/js/2.79263c1a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Fullstack/static/media/background.85cd67db.jpg",
+    "static/media/cards.css": "/Fullstack/static/media/tradingview.66e27588.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0759df5.js",
+    "static/js/runtime-main.1dc45b6c.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.79263c1a.chunk.js",
-    "static/css/main.6c99c888.chunk.css",
+    "static/css/main.fb2482ef.chunk.css",
     "static/js/main.3270fdd6.chunk.js"
   ]
 }

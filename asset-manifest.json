@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Fullstack/client/basics/public/static/css/main.4049763c.chunk.css",
-    "main.js": "/Fullstack/client/basics/public/static/js/main.3270fdd6.chunk.js",
-    "main.js.map": "/Fullstack/client/basics/public/static/js/main.3270fdd6.chunk.js.map",
-    "runtime-main.js": "/Fullstack/client/basics/public/static/js/runtime-main.a4241a6f.js",
-    "runtime-main.js.map": "/Fullstack/client/basics/public/static/js/runtime-main.a4241a6f.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/Fullstack/client/basics/public/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.79263c1a.chunk.js": "/Fullstack/client/basics/public/static/js/2.79263c1a.chunk.js",
-    "static/js/2.79263c1a.chunk.js.map": "/Fullstack/client/basics/public/static/js/2.79263c1a.chunk.js.map",
-    "static/js/3.23e9ece8.chunk.js": "/Fullstack/client/basics/public/static/js/3.23e9ece8.chunk.js",
-    "static/js/3.23e9ece8.chunk.js.map": "/Fullstack/client/basics/public/static/js/3.23e9ece8.chunk.js.map",
-    "index.html": "/Fullstack/client/basics/public/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/Fullstack/client/basics/public/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.4049763c.chunk.css.map": "/Fullstack/client/basics/public/static/css/main.4049763c.chunk.css.map",
-    "static/js/2.79263c1a.chunk.js.LICENSE.txt": "/Fullstack/client/basics/public/static/js/2.79263c1a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Fullstack/client/basics/public/static/media/background.85cd67db.jpg",
-    "static/media/cards.css": "/Fullstack/client/basics/public/static/media/tradingview.66e27588.png"
+    "main.css": "/traderhelp/static/css/main.a5ef6571.chunk.css",
+    "main.js": "/traderhelp/static/js/main.1449a9b9.chunk.js",
+    "main.js.map": "/traderhelp/static/js/main.1449a9b9.chunk.js.map",
+    "runtime-main.js": "/traderhelp/static/js/runtime-main.cbb4c69c.js",
+    "runtime-main.js.map": "/traderhelp/static/js/runtime-main.cbb4c69c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/traderhelp/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.79263c1a.chunk.js": "/traderhelp/static/js/2.79263c1a.chunk.js",
+    "static/js/2.79263c1a.chunk.js.map": "/traderhelp/static/js/2.79263c1a.chunk.js.map",
+    "static/js/3.23e9ece8.chunk.js": "/traderhelp/static/js/3.23e9ece8.chunk.js",
+    "static/js/3.23e9ece8.chunk.js.map": "/traderhelp/static/js/3.23e9ece8.chunk.js.map",
+    "index.html": "/traderhelp/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/traderhelp/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.a5ef6571.chunk.css.map": "/traderhelp/static/css/main.a5ef6571.chunk.css.map",
+    "static/js/2.79263c1a.chunk.js.LICENSE.txt": "/traderhelp/static/js/2.79263c1a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/traderhelp/static/media/background.85cd67db.jpg",
+    "static/media/cards.css": "/traderhelp/static/media/tradingview.66e27588.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4241a6f.js",
+    "static/js/runtime-main.cbb4c69c.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.79263c1a.chunk.js",
-    "static/css/main.4049763c.chunk.css",
-    "static/js/main.3270fdd6.chunk.js"
+    "static/css/main.a5ef6571.chunk.css",
+    "static/js/main.1449a9b9.chunk.js"
   ]
 }

@@ -33,7 +33,7 @@ class Footer extends Component{
   	 			<h4>Address</h4>
   	 			<ul>
   	 				<li><a href="#">Delhi, India </a></li>
-            <li><a href="soni.tizil@gmail.com">Contact@admin</a></li>
+            <li><a href="www.gmail.com">Contact@admin</a></li>
   	 			</ul>
   	 		</div>
   	 		<div class="footer-col">

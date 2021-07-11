@@ -32,7 +32,7 @@ class Footer extends Component{
   	 		<div class="footer-col">
   	 			<h4>Address</h4>
   	 			<ul>
-  	 				<li><a href="#">Delhi, India </a></li>
+  	 				<li><a href="https://en.wikipedia.org/wiki/New_Delhi">Delhi, India </a></li>
             <li><a href="www.gmail.com">Contact@admin</a></li>
   	 			</ul>
   	 		</div>
@@ -40,7 +40,7 @@ class Footer extends Component{
   	 			<h4>Reach Me</h4>
   	 			<div class="social-links">
   	 				<a href="https://github.com/tizilsoni"><i class="fab fa-github"></i></a>
-  	 				<a href="#"><i class="fab fa-facebook-f"></i></a>
+  	 				<a href="www.facebook.com"><i class="fab fa-facebook-f"></i></a>
   	 				<a href="https://www.instagram.com/tradersgarage/"><i class="fab fa-instagram"></i></a>
   	 				<a href="https://twitter.com/tizilsoni"><i class="fab fa-twitter"></i></a>
   	 			</div>

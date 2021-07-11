@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React, { Component } from 'react';
-import { Row, Col , Jumbotron , Container ,  Button } from 'react-bootstrap';
-
+import { Row, Col , Jumbotron , Container} from 'react-bootstrap';
+import Footer from './footer.js';
 
 
 const api = axios.create({
@@ -22,7 +22,8 @@ class Strategy extends Component{
         }
   render(){
       return(
-        <Jumbotron className="bg-transparent text-center">
+        <Container fluid>
+        <Jumbotron className="bg-dark text-center">
             <h1 className="mb-5">Available Strategies</h1>
             <Row>
                 <Col className="mb-5">
@@ -39,6 +40,8 @@ class Strategy extends Component{
                 </Col>
             </Row>
         </Jumbotron>
+        <Footer />
+        </Container>
 
         );
     }

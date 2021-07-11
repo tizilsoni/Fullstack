@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import { Row, Col , Jumbotron , Container ,  Button } from 'react-bootstrap';
+import { Row, Col , Container ,  Button} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './../App.css';
+import Cards from './cards';
+import Footer from './footer.js';
 
 
 class Landing extends Component{
@@ -10,15 +12,23 @@ class Landing extends Component{
 	          
 	          
 	          <div className="AppHeader">
-	            <Jumbotron fluid className="kontain bg-transparent">
-	              <Container>
-	                <h1 className="mb-5">Welcome to Trade Helper</h1>
-	                <h2>
-	                  A simple website For New traders to get to know about different kind of instruments and strategies.
-	                </h2>
+	            
+	              <Container fluid className="kontain">
+	              
+	                <h1>Welcome to Trade-Helper</h1>
+	                <h3>
+	                  A Simple Website For New traders To Get To Know About Different Kind of Instruments And Strategies.
+	                </h3>
+
 	              </Container>
-	            </Jumbotron>
-	            <Container fluid className="text-center">
+	            
+	            <Container fluid className="show2">
+	            	<h1 className="text-center mb-5"> Some Of The Useful Tools and Websites</h1>
+	            	<Cards />
+	            </Container>
+
+
+	            <Container fluid className="show text-center">
 	                <Row>
 	                    <Col>
 	                      <h2 className="mb-5"> What is A Strategy? </h2>
@@ -26,7 +36,7 @@ class Landing extends Component{
 	                          A trading strategy is a systematic methodology used for buying and selling in the securities markets. A trading strategy is based on predefined rules and criteria used when making trading decisions. 
 	                        </h3>
 	                        <Link to="/strategies">
-	                        <Button className="bg-success">
+	                        <Button variant="dark" className="mb-5">
 	                          View Strategies
 	                        </Button>
 	                        </Link>
@@ -38,13 +48,14 @@ class Landing extends Component{
 	                          Trading instruments refer to the different types of markets you can trade. Sometimes called securities, they range from commodity futures to stocks and CFDs, to currencies and metals, and more.
 	                        </h3>
 	                        <Link to="/instrument">
-	                        <Button className="bg-success">
+	                        <Button variant="dark" className="mb-5">
 	                          See Instruments
 	                        </Button>
 	                        </Link>
 	                    </Col>
 	                </Row>
 	            </Container>
+	            <Footer />
 	         </div>
 	          
         );
